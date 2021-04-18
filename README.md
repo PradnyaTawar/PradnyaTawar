@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PradnyaTawar
 - 👀 I’m interested in Web designing
-- 🌱 I’m currently learning Msc Computer Science from MIT-WPU.
+- 🌱 I’m currently learning Msc Computer Science in MIT-WPU.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:tawar.rani96@gmail.com 
 
