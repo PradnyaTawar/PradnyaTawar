@@ -1,6 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
+  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 👋 Hi, I’m @PradnyaTawar
 - 👀 I’m interested in Web designing
@@ -8,13 +9,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:tawar.rani96@gmail.com 
 
+
+
 <div align="center" width="50">
 
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/pradnya-tawar-50a93516b/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
+  <a target="_blank" href="https://github.com/PradnyaTawar">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
   
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
