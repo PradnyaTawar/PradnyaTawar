@@ -1,7 +1,7 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-  <img align="right" width=300px alt="Unicorn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgaladarling.com%2Fcustomer-service-queen-wanted%2F&psig=AOvVaw2Hkn5eRZCvWsmpMjn3WVuI&ust=1643975481122000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDOzIi84_UCFQAAAAAdAAAAABBN" /> 
+  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 - 👋 Hi, I’m @PradnyaTawar
 - 👀 I’m interested in Web designing
