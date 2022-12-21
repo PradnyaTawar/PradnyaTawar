@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m @PradnyaTawar<br>👀 I’m interested in Web designing & Developement<br>🌱 I've completed Msc Computer Science in MIT-WPU.<br>📫 How to reach me email:tawar.rani96@gmail.com<br>🌱 I’m currently learning FullStack Developement React<br><img align="right" width=500px height=300px alt="Unicorn" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
- 
+👋 Hi, I’m @PradnyaTawar<br>👀 I’m interested in Web designing & Developement<br>🌱 I've completed Msc Computer Science in MIT-WPU.<br>📫 How to reach me email:tawar.rani96@gmail.com<br>🌱 I’m currently learning FullStack Developement React<br>
+
+<img  width=500px height=300px alt="Unicorn" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/pradnyatawar7350) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradnya-tawar-50a93516b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@pradnyatawar2806) 
@@ -15,12 +16,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=PradnyaTawar&icon=5&color=10)](https://visitcount.itsvg.in)
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
 
