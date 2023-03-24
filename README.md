@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PradnyaTawar<br>👀 I’m interested in Web designing & Developement<br>🌱 I've completed Msc Computer Science from MIT-WPU.<br>📫 How to reach me email:tawar.rani96@gmail.com<br>🌱 I’m currently learning Specialization FullStack Developement React<br>
+👋 Hi, I’m @PradnyaTawar<br>👀 I’m interested in Web designing & Developement<br>🌱 I've completed Msc Computer Science from MIT-WPU.<br>📫 How to reach me email:tawar.rani96@gmail.com<br>🌱 I’m currently learning Specialization FullStack Developement MERN<br>
 
 <img  width=500px height=300px alt="Unicorn" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
